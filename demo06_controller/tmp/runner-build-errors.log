@@ -1,0 +1,2 @@
+# demo06_controller/controllers/admin_controller
+controllers\admin_controller\adminController.go:16:3: missing key in map literal
